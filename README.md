@@ -20,7 +20,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - JavaScript
-- Node.Js
+- Node.js
 - Git e Github
 
 ## 💻 Projeto
